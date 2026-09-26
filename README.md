@@ -11,7 +11,7 @@
 
 `edges.csv` 格式：至少包含表头 `from,to`；可选第三列 `distance_meters`（若缺省则按两点经纬度计算球面距离）。
 
-文档索引：见 [docs/README.md](./docs/README.md)。
+文档索引：见 [docs/README.md](./docs/README.md)。新同学请先读 [新同学上手指南](./docs/新同学上手指南.md)（含后端 Maven / 前端目录说明、本地启动与示例路线验证）。
 
 ## 🚀 启动指南
 1. 确保 Docker Desktop 已启动
